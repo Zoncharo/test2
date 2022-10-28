@@ -1,1 +1,4 @@
-echo (date)
+<?php
+$milisekundy=(microtime(true));
+echo ($milisekundy);
+?>
